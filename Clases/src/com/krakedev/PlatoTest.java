@@ -7,12 +7,12 @@ public class PlatoTest {
 		Plato p2=new Plato();
 		Plato p3=new Plato();
 		
-		System.out.print("Plato A-----");
+		System.out.println("Plato A-----");
 		
-		System.out.print("Nombre: "+p1.nombre);
-		System.out.print("tipo: "+p1.tipo);
-		System.out.print("precio: "+p1.precio);
-		System.out.print("disponible: "+p1.disponible);
+		System.out.println("Nombre: "+p1.nombre);
+		System.out.println("tipo: "+p1.tipo);
+		System.out.println("precio: "+p1.precio);
+		System.out.println("disponible: "+p1.disponible);
 		
 		p1.nombre="haburgesa";
 		p1.tipo="simple";

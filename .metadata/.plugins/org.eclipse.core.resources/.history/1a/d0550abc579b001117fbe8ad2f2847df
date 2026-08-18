@@ -1,0 +1,25 @@
+package com.krakedev;
+
+public class TetsCalculadora {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Calculadora C1= new Calculadora();
+		
+		int r1=C1.sumar(4,2);
+		System.out.println("Resultado suma: "+r1);
+		
+		int r2=C1.restar(4,2);
+		System.out.println("Resultado resta: "+r2);
+		
+		double r3=C1.multiplicar(10,5);
+		System.out.println("Resultado multiplicación: "+r3);
+		
+		double r4=C1.dividir(10,2);
+		System.out.println("Resultado divicion: "+r4);
+		
+		double r5=C1.promediar(10,8,9);
+		System.out.println("Resultado promedio: "+r5);
+	}
+
+}

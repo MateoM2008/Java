@@ -56,3 +56,23 @@
 2026-08-18 00:32:36.363: [INFO] BookmarkModelLoaded, ids_reassigned: 0
 2026-08-18 00:32:36.363: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-08-18 00:32:36.363: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 00:50:53.751: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 22:35:59.552: [INFO] CurrentProfilePath: C:\Users\LENOVO\Documents\KRAKE DEV\Modulo 2 POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 22:35:59.553: [INFO] Profiles total count: 1
+2026-08-18 22:35:59.554: [INFO] Profile: name=Perfil 1 path=C:\Users\LENOVO\Documents\KRAKE DEV\Modulo 2 POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T00:33:30.814Z
+2026-08-18 22:35:59.554: [INFO] LastUsedProfileDir: C:\Users\LENOVO\Documents\KRAKE DEV\Modulo 2 POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 22:35:59.554: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\LENOVO\Documents\KRAKE DEV\Modulo 2 POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T00:33:30.814Z
+2026-08-18 22:35:59.554: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 22:35:59.554: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 22:35:59.554: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 22:35:59.554: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 22:36:06.422: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 22:40:39.109: [INFO] CurrentProfilePath: C:\Users\LENOVO\Documents\KRAKE DEV\Modulo 2 POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 22:40:39.109: [INFO] Profiles total count: 1
+2026-08-18 22:40:39.111: [INFO] Profile: name=Perfil 1 path=C:\Users\LENOVO\Documents\KRAKE DEV\Modulo 2 POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T00:33:30.814Z
+2026-08-18 22:40:39.111: [INFO] LastUsedProfileDir: C:\Users\LENOVO\Documents\KRAKE DEV\Modulo 2 POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-18 22:40:39.112: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\LENOVO\Documents\KRAKE DEV\Modulo 2 POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T00:33:30.814Z
+2026-08-18 22:40:39.112: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 22:40:39.112: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 22:40:39.112: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 22:40:39.112: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

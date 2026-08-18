@@ -1,0 +1,33 @@
+package com.krakedev;
+
+public class PlatoTest {
+
+	public static void main(String[] args) {
+		Plato p1=new Plato();
+		Plato p2=new Plato();
+		Plato p2=new Plato();
+		
+		System.out.print("Plato 1-----");
+		
+		res1.nombre="KFC";
+		res1.direcccion="Quito";
+		res1.calificacion=9;
+		
+		System.out.print("Nombre: "+res1.nombre);
+		System.out.print("Direcccion: "+res1.direcccion);
+		System.out.print("Calificacion: "+res1.calificacion);
+		
+		System.out.print("P 2-----");
+		
+		res2.nombre="la mas rica";
+		res2.direcccion="en donde esta construida";
+		res2.calificacion=200;
+		
+		System.out.print("Nombre: "+res2.nombre);
+		System.out.print("Direcccion: "+res2.direcccion);
+		System.out.print("Calificacion: "+res2.calificacion);
+
+
+	}
+
+}
